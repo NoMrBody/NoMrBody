@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I'm Nikoloz Kutchukhidze!  👨‍💻  </h1>
 
   <p align="center">👨‍🎓 I am a Computer Science student at <b>Kutaisi International University</b></p>
-    <p align="center">Constantly learning backend development and cybersecurity</p>
+    <p align="center">Constantly seeking oppertunities to expand knowledge in Software development and Cybersecurity</p>
 
 ## My Development Stack 
 <table><tr><td valign="top" width="50%">
