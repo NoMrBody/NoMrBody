@@ -28,7 +28,7 @@
 
 <br />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoMrBody&show_icons=true&layout=donut&theme=codeSTACKr" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoMrBody&show_icons=true&layout=donut&theme=dark" align="center" /></div>  
 
 <br />  
 
