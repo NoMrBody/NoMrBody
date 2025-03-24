@@ -26,13 +26,13 @@
 
 </td></table>  
 
-<br/>  
+<br />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoMrBody&show_icons=true&layout=donut&theme=darcula" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoMrBody&show_icons=true&layout=donut&theme=codeSTACKr" align="center" /></div>  
 
-<br/>  
+<br />  
 
-## Connect with me  
+## Contact me  
 <div align="center">
 <a href="https://linkedin.com/in/nikoloz-kutchukhidze" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
