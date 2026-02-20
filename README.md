@@ -1,41 +1,19 @@
-<h2 align="center">Hello, I'm Nikoloz.</h1>
-
-  <p align="center">I am a Computer Science student at <b>Kutaisi International University</b></p>
-    <p align="center">Constantly seeking opportunities to expand knowledge in Software development and Cybersecurity</p>
-
-## My Development Stack 
-<table><tr><td valign="top" width="50%">
-
-### Cybersecurity  
-<div align="center">  
-  
-</div>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</td><td valign="top" width="50%">
+# 💫 About Me:
+Hello, I'm Nikoloz.<br>I am a Computer Science student at **Kutaisi International University**.<br>Constantly seeking opportunities to expand knowledge in Software Engineering.
 
 
-### Computer Science & DSA  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<a href="https://www.ocaml.org/" target="_blank"><img style="margin: 10px" src="https://ocaml.org/_/MTE3YWE5YzJlZmExNmYyMmI3ZmEwYjliMDEwNDBkMDY/logo-with-name-white.svg" alt="Ocaml" height="50" />
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" height="50" />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikoloz-kutchukhidze) 
 
-</td></table>  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NoMrBody&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NoMrBody&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoMrBody&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NoMrBody&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoMrBody&show_icons=true&layout=donut&theme=dark" align="center" /></div>  
-
-<br />  
-
-## Contact me  
-<div align="center">
-<a href="https://linkedin.com/in/nikoloz-kutchukhidze" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+---
+[![](https://visitcount.itsvg.in/api?id=NoMrBody&icon=0&color=0)](https://visitcount.itsvg.in)
